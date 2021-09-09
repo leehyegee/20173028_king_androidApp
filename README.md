@@ -5,7 +5,7 @@
 ## 2주차
   - 깃허브사용법
 
-<img width="" height="" src="./png/강아지.jpg"></img>
+<img width="300" height="300" src="./png/강아지.jpg"></img>
       
       
 ## 추가 됨
