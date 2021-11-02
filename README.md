@@ -20,8 +20,8 @@
 ## 7주차
 ## 8주차
 ## 9주차
-
-
+<img width="300" height="300" src="./png/강아지.jpg"></img>
+<img width="300" height="300" src="./png/강아지.jpg"></img>
 ## 10주차
 ## 11주차
 ## 12주차
