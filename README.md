@@ -32,6 +32,8 @@
 ![11주차과제_20173028이혜지](https://user-images.githubusercontent.com/90363563/141671543-407b6df3-491a-4849-8986-682b788d0198.JPG)
 
 ## 12주차
+![12주차과제_영화정보수](https://user-images.githubusercontent.com/90363563/142347610-5526210c-f54b-49ce-a841-8d7b4b6728dd.JPG)
+
 ## 13주차
 ## 14주차
 ## 추가 됨
