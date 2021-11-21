@@ -11,7 +11,7 @@
 
 ## 3주차
 
-<img width="300" height="300" src="./png/캡스톤9주차과제1.JPG"></img>
+<img src="./png/캡스톤9주차과제1.JPG"></img>
 
 <img width="300" height="300" src="./png/네이버작동.jpg"></img>
 ## 4주차
