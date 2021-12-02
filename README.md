@@ -18,9 +18,6 @@
 ## 7주차
 ## 8주차
 ## 9주차
-![캡스톤9주차과제1](https://user-images.githubusercontent.com/90363563/139908212-de5a6cc2-56e9-4d6c-9407-8e017fbcd292.JPG)
-![캡스톤9주차과제2](https://user-images.githubusercontent.com/90363563/139908592-ad0a86d3-e53c-4e06-86f6-04ee5760709c.JPG)
-![캡스톤9주차과제그라데이션](https://user-images.githubusercontent.com/90363563/139908617-2068523a-2715-412c-a49a-43aef025105f.JPG)
 
 <img src="./png/캡스톤9주차과제1.JPG"></img>
 <img src="./png/캡스톤9주차과제2.JPG"></img>
