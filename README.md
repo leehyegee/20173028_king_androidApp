@@ -11,7 +11,7 @@
 
 ## 3주차
 
-<img width="300" height="300" src="./png/네이버작동.jpg"></img>
+<img width="300" height="300" src="./png/네이버작동.JPG"></img>
 ## 4주차
 ## 5주차
 ## 6주차
