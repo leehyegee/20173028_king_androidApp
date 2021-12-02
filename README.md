@@ -5,14 +5,14 @@
 ## 2주차
   - 출석과제
 
-<img width="100" height="100" src="./png/2주차.JPG"></img>
+<img src="./png/2주차.JPG"></img>
 
 <img width="300" height="300" src="./png/강아지.jpg"></img>
 
 
 ## 3주차
 
-<img width="300" height="300" src="./png/네이버작동.JPG"></img>
+<img src="./png/네이버작동.JPG"></img>
 ## 4주차
 ## 5주차
 ## 6주차
