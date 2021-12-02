@@ -35,8 +35,8 @@
 
 <img src="./png/12주차과제_영화정보수.JPG"></img>
 ## 13주차
-<img src="./png/13주차과제_영화목록.JPG"></img>
-<img src="./png/2주차.jpg"></img>
+<img src="./png/13주차과제_영화순위.JPG"></img>
+
 ## 14주차
 ## 추가 됨
 
