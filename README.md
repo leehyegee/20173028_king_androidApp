@@ -6,6 +6,7 @@
   - 출석과제
 
 <img width="100" height="100" src="./png/2주차.jpg"></img>
+
 <img width="300" height="300" src="./png/강아지.jpg"></img>
 
 
@@ -25,7 +26,7 @@
 ## 10주차
 ## 11주차
 ![11주차과제_20173028이혜지](https://user-images.githubusercontent.com/90363563/141671543-407b6df3-491a-4849-8986-682b788d0198.JPG)
-
+<img width="100" height="100" src="./png/11주차과제_20173028이혜지.JPG"></img>
 ## 12주차
 
 <img src="./png/12주차과제_영화정보수.JPG"></img>
