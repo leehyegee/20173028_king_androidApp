@@ -20,7 +20,7 @@
 ## 8주차
 ## 9주차
 
-<img src="./png/캡스톤9주차과제1.JPG"></img>
+<img src="./png/9주차과제1.JPG"></img>
 <img src="./png/9주차과제2.JPG"></img>
 <img src="./png/9주차과제그라데이션.JPG"></img>
 
